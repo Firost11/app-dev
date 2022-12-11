@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# Gap The Series
+
+	**A Thai original series**
